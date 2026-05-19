@@ -1,0 +1,9 @@
+datasets>=2.19.0
+huggingface_hub>=0.23.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+tqdm>=4.66.0
+pillow>=10.0.0
+# torch and torchvision are already available on Kaggle GPU images.
