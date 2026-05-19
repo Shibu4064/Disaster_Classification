@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+numpy
+pandas
+pillow
+opencv-python
+scikit-learn
+tqdm
